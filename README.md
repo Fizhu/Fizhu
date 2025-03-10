@@ -11,5 +11,5 @@
 
 ###### 2021 Completion
 
-<img width="480pxpx" alt="image" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
+<img width="100%" alt="image" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
 

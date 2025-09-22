@@ -12,9 +12,9 @@ I'm passionate about building elegant and efficient mobile applications that pro
     <a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu's GitHub Trophies" /></a>
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&include_all_commits=true&line_height=39&theme=dracula" alt="Fizhu's GitHub Stats" width="100%"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak" width="100%"  />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&include_all_commits=true&line_height=40&theme=dracula" alt="Fizhu's GitHub Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak"/>
 </p>
 
 ---

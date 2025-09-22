@@ -13,8 +13,8 @@ I'm passionate about building elegant and efficient mobile applications that pro
 </p>
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&include_all_commits=true&line_height=39&theme=dracula" alt="Fizhu's GitHub Stats" width="50%"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak" width="48%"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&include_all_commits=true&line_height=39&theme=dracula" alt="Fizhu's GitHub Stats" width="100%"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak" width="100%"  />
 </p>
 
 ---

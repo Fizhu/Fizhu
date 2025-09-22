@@ -46,7 +46,13 @@ Here are some of the technologies and tools I'm currently using or have experien
 ### 💬 Connect With Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/hafizhanbiya"><img src="https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-    <a href="mailto:hafizhanbiya.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
-    <a href="https://fiz.soapmate.id"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=4285F4" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/hafizhanbiya">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hafizhanbiya.dev@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+    <a href="https://fiz.soapmate.id">
+        <img src="https://skillicons.dev/icons?i=chrome" alt="Website" />
+    </a>
 </p>

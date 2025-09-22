@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### Highly interest in Software Engineering and UI/UX 🙌
+###### Software Engineer specializing in Mobile Development with over 6+ years of experience. 🙌
 
 <p><a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu" /></a></p>
 <hr>

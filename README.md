@@ -24,17 +24,17 @@ I'm passionate about building elegant and efficient mobile applications that pro
 Here are some of the technologies and tools I'm currently using or have experience with:
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server)
+![Java](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=FF9000)
+![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Dart](https://img.shields.io/badge/-Dart-grey?style=for-the-badge&logo=dart&logoColor=0175C2)
+![SQL](https://img.shields.io/badge/-SQL-grey?style=for-the-badge&logo=microsoft-sql-server&logoColor=4479A1)
 
 **Development Scope:**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=compose)
-![Ktor](https://img.shields.io/badge/Ktor-02B5E2?style=for-the-badge&logo=ktor)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-grey?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-grey?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Compose Multiplatform](https://img.shields.io/badge/-Compose%20Multiplatform-grey?style=for-the-badge&logo=compose&logoColor=4285F4)
+![Ktor](https://img.shields.io/badge/-Ktor-grey?style=for-the-badge&logo=ktor&logoColor=02B5E2)
+![Flutter](https://img.shields.io/badge/-Flutter-grey?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ---
 
@@ -49,7 +49,7 @@ Here are some of the technologies and tools I'm currently using or have experien
 ### 💬 Connect With Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/hafizhanbiya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:hafizhanbiya.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://fiz.soapmate.id"><img src="https://img.shields.io/badge/-Website-1A242B?style=flat&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/hafizhanbiya"><img src="https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+    <a href="mailto:hafizhanbiya.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
+    <a href="https://fiz.soapmate.id"><img src="https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=4285F4" alt="Website" /></a>
 </p>

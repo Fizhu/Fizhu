@@ -24,7 +24,7 @@ I'm passionate about building elegant and efficient mobile applications that pro
 Here are some of the technologies and tools I'm currently using or have experience with:
 
 **Languages:**
-![Java](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java&logoColor=FF9000)
+![Java](https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Dart](https://img.shields.io/badge/-Dart-grey?style=for-the-badge&logo=dart&logoColor=0175C2)
 ![SQL](https://img.shields.io/badge/-SQL-grey?style=for-the-badge&logo=microsoft-sql-server&logoColor=4479A1)

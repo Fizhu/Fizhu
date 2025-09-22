@@ -22,8 +22,6 @@ I'm passionate about building elegant and efficient mobile applications that pro
 ### 🛠️ What I'm Into
 
 Here are some of the technologies and tools I'm currently using or have experience with:
-
-**Languages:**
 <img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,ktor, gradle, postgres, sqlite" />
 
 ---

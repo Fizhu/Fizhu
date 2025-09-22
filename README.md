@@ -8,36 +8,29 @@ I'm passionate about building elegant and efficient mobile applications that pro
 
 ### 💻 My GitHub Stats
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu's GitHub Trophies" /></a>
 </p>
 
-<p align="center">
+<p align="meft">
     <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&line_height=40&theme=dark" alt="Fizhu's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizhu&hide=html&theme=dark" alt="Fizhu's Top Languages" />
 </p>
 
 ---
 
-### 🛠️ What I'm Working On
+### 🛠️ What I'm Into
 
 Here are some of the technologies and tools I'm currently using or have experience with:
 
 **Languages:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,sql" />
-</p>
-
-**Development Scope:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,ktor,flutter" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,ktor, gradle, postgres, sqlite" />
 
 ---
 
 ### 🎉 Achievements
 
-<p align="center">
+<p align="left">
     <img width="75%" alt="2021 Completion" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
 </p>
 
@@ -45,14 +38,11 @@ Here are some of the technologies and tools I'm currently using or have experien
 
 ### 💬 Connect With Me
 
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/hafizhanbiya">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:hafizhanbiya.dev@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-    </a>
-    <a href="https://fiz.soapmate.id">
-        <img src="https://skillicons.dev/icons?i=chrome" alt="Website" />
     </a>
 </p>

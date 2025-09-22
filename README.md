@@ -24,17 +24,17 @@ I'm passionate about building elegant and efficient mobile applications that pro
 Here are some of the technologies and tools I'm currently using or have experience with:
 
 **Languages:**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server)
 
 **Development Scope:**
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?style=flat&logo=compose&logoColor=white)
-![Ktor](https://img.shields.io/badge/-Ktor-02B5E2?style=flat&logo=ktor&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=compose)
+![Ktor](https://img.shields.io/badge/Ktor-02B5E2?style=for-the-badge&logo=ktor)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 
 ---
 

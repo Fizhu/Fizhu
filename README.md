@@ -1,4 +1,4 @@
-# Hi, I'm Hafizh Anbiya! 👋
+# Hi, I'm Hafizh Anbiya 👋
 
 ### A Software Engineer specializing in Mobile Development with over **6+ years** of experience.
 

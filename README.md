@@ -23,26 +23,13 @@ I'm passionate about building elegant and efficient mobile applications that pro
 
 Here are some of the technologies and tools I'm currently using or have experience with:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,ktor, gradle, postgres, sqlite" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,flutter,idea,ktor,gradle,postgres,sqlite" />
 </p>
 
 ---
 
-### 🎉 Achievements
+### 🎉 2021 Achievements
 
 <p align="left">
     <img width="75%" alt="2021 Completion" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
-</p>
-
----
-
-### 💬 Connect With Me
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/hafizhanbiya">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:hafizhanbiya.dev@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-    </a>
 </p>

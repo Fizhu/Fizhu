@@ -31,5 +31,5 @@ Here are some of the technologies and tools I'm currently using or have experien
 ### 🎉 2021 Achievements
 
 <p align="left">
-    <img width="75%" alt="2021 Completion" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
+    <img width="100%" alt="2021 Completion" src="https://github.com/Fizhu/Fizhu/blob/master/completion_2021.png?raw=true">
 </p>

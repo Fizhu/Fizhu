@@ -18,10 +18,6 @@ I'm passionate about building elegant and efficient mobile applications that pro
     <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu's GitHub Trophies" /></a>
-</p>
-
 ---
 
 ### 🛠️ What I'm Into

@@ -8,17 +8,17 @@ I'm passionate about building elegant and efficient mobile applications that pro
 
 ### 💻 My GitHub Stats
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu's GitHub Trophies" /></a>
 </p>
 
-<p align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Fizhu&show_icons=true&count_private=true&include_all_commits=true&line_height=40&theme=dracula" alt="Fizhu's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizhu&hide=html&theme=dracula" alt="Fizhu's Top Languages" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=fizhu&theme=dracula&hide_border=false" alt="Fizhu's Streak" />
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/Fizhu"><img src="https://github-profile-trophy.vercel.app/?username=Fizhu&row=1&margin-w=15&margin-h=15" alt="Fizhu's GitHub Trophies" /></a>
 </p>
 
